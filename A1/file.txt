@@ -1,0 +1,3 @@
+Hello world
+I am doing an assignment on Algorithms for Intelligence Web and Information Retrieval
+This is the first assignment .
